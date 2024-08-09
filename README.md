@@ -1,4 +1,5 @@
 ## Hello there! 👋 I'm Matthew
+I'm a computer programming hobbyist and a university student, currently majoring in computational linguistics. I've been coding for upwards of 4 years now; experimenting with various programming languages, and learning how to build my own scripts with them.
 
 ## My Skills
 ### Languages & Tools
