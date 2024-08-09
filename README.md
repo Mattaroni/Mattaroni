@@ -1,5 +1,4 @@
 ## Hello there! 👋 I'm Matthew
-something something blah blah
 
 ## My Skills
 ### Languages & Tools
