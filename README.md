@@ -1,6 +1,6 @@
 ## Hello there! 👋 I'm Matthew
 I'm a computer programming hobbyist and a university student, currently majoring in computational linguistics.
-## My Skills
+
 ### Languages & Tools
 ![Java](https://img.shields.io/badge/-Java-1e1e2e?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat&logo=javascript)
