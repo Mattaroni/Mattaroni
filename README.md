@@ -1,3 +1,7 @@
+<div id=banner align=center>
+    <img src="./assets/rest-here-weary-traveler.webp" width="700">
+</div>
+
 ## Hello there! 👋 I'm Matthew
 I'm a computer programming hobbyist and a university student, currently majoring in computational linguistics.
 
