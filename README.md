@@ -5,12 +5,12 @@
 ## Hello there! 👋 I'm Matthew
 I'm a computer programming hobbyist and a university student, currently majoring in computational linguistics.
 
-### A Bit About Me
+### A Bit More About Me
 ```toml
 [users.mattaroni]
 name = "matthew"
-pronouns = ["he","him"]
-age = 21
+pronouns = "he/him"
+hobbies = ["gunpla building", "programming", "video games"]
 ```
 
 ### Languages & Tools
