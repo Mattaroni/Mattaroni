@@ -1,14 +1,7 @@
-<!-- <div id=banner align=center>
+<div id=banner align=center>
     <img src="./assets/rest-here-weary-traveler.webp" width="700">
-</div> -->
-```
-    __  ___      __  __                         _
-   /  |/  /___ _/ /_/ /_____ __________  ____  (_)
-  / /|_/ / __ `/ __/ __/ __ `/ ___/ __ \/ __ \/ /
- / /  / / /_/ / /_/ /_/ /_/ / /  / /_/ / / / / /
-/_/  /_/\__,_/\__/\__/\__,_/_/   \____/_/ /_/_/
+</div>
 
-```
 ## Hello there! 👋 I'm Matthew
 I'm a computer programming hobbyist and a university student, currently majoring in computational linguistics.
 
