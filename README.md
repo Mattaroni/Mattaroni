@@ -14,6 +14,7 @@ hobbies = ["gunpla building", "programming", "video games"]
 ```
 
 ### Languages & Tools
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat&logo=git&logoColor=F05032)
 ![Java](https://img.shields.io/badge/Java-1e1e2e?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=flat&logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/JSON-1e1e2e?style=flat&logo=json)
