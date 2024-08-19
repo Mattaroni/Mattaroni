@@ -21,6 +21,7 @@ hobbies = ["gunpla building", "programming", "video games"]
 ![NPM](https://img.shields.io/badge/NPM-1e1e2e?style=flat&logo=npm&logoColor=CB3837)
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=flat&logo=node.js&logoColor=5FA04E)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat&logo=python&logoColor=3776AB)
+![TOML](https://img.shields.io/badge/TOML-1e1e2e?style=flat&logo=toml&logoColor=9C4121)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=flat&logo=typescript&logoColor=3178C6)
 
 ### Currently Learning
