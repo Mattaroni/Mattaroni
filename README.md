@@ -21,10 +21,10 @@ hobbies = ["gunpla building", "programming", "video games"]
 ![NPM](https://img.shields.io/badge/NPM-1e1e2e?style=flat&logo=npm&logoColor=CB3837)
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=flat&logo=node.js&logoColor=5FA04E)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat&logo=python&logoColor=3776AB)
+![Rust](https://img.shields.io/badge/Rust-1e1e2e?style=flat&logo=rust&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-1e1e2e?style=flat&logo=toml&logoColor=9C4121)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=flat&logo=typescript&logoColor=3178C6)
 
 ### Currently Learning
 ![HTML](https://img.shields.io/badge/HTML-1e1e2e?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1e1e2e?style=flat&logo=css3&logoColor=1572B6)
-![Rust](https://img.shields.io/badge/Rust-1e1e2e?style=flat&logo=rust)
