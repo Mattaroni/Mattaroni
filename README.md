@@ -28,3 +28,4 @@ hobbies = ["gunpla building", "programming", "video games"]
 ### Currently Learning
 ![HTML](https://img.shields.io/badge/HTML-1e1e2e?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1e1e2e?style=flat&logo=css3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=flat&logo=mysql&logoColor=4479A1)
