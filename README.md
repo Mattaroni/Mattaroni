@@ -15,6 +15,7 @@ hobbies = ["gunpla building", "programming", "video games"]
 
 ### Languages & Tools
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat&logo=git&logoColor=F05032)
+![HTML](https://img.shields.io/badge/HTML-1e1e2e?style=flat&logo=html5&logoColor=E34F26)
 ![Java](https://img.shields.io/badge/Java-1e1e2e?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=flat&logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/JSON-1e1e2e?style=flat&logo=json)
@@ -28,6 +29,5 @@ hobbies = ["gunpla building", "programming", "video games"]
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=flat&logo=typescript&logoColor=3178C6)
 
 ### Currently Learning
-![HTML](https://img.shields.io/badge/HTML-1e1e2e?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1e1e2e?style=flat&logo=css3&logoColor=1572B6)
 ![LaTeX](https://img.shields.io/badge/LaTeX-1e1e2e?stype=flat&logo=latex&logoColor=008080)
