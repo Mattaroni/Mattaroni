@@ -30,4 +30,5 @@ hobbies = ["gunpla building", "programming", "video games"]
 
 ### Currently Learning
 ![CSS](https://img.shields.io/badge/CSS-1e1e2e?style=flat&logo=css3&logoColor=1572B6)
-![LaTeX](https://img.shields.io/badge/LaTeX-1e1e2e?stype=flat&logo=latex&logoColor=008080)
+![LaTeX](https://img.shields.io/badge/LaTeX-1e1e2e?style=flat&logo=latex&logoColor=008080)
+![Vue](https://img.shields.io/badge/Vue-1e1e2e?style=flat&logo=vue.js&logoColor=4FC08D)
