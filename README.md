@@ -1,5 +1,5 @@
 <div id=banner align=center>
-    <img src="./assets/rest-here-weary-traveler.webp" width="700">
+  <img src="./assets/rest-here-weary-traveler.webp" width="700">
 </div>
 
 ## Hello there! 👋 I'm Matthew
