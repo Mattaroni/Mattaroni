@@ -31,5 +31,4 @@ hobbies = ["gunpla building", "programming", "video games"]
 
 ### Currently Learning
 ![LaTeX](https://img.shields.io/badge/LaTeX-1e1e2e?style=flat&logo=latex&logoColor=008080)
-![Sass](https://img.shields.io/badge/Sass-1e1e2e?style=flat&logo=sass&logoColor=CC6699)
 ![Vue](https://img.shields.io/badge/Vue-1e1e2e?style=flat&logo=vue.js&logoColor=4FC08D)
