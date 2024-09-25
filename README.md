@@ -28,7 +28,4 @@ hobbies = ["gunpla building", "programming", "video games"]
 ![Rust](https://img.shields.io/badge/Rust-1e1e2e?style=flat&logo=rust&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-1e1e2e?style=flat&logo=toml&logoColor=9C4121)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=flat&logo=typescript&logoColor=3178C6)
-
-### Currently Learning
-![LaTeX](https://img.shields.io/badge/LaTeX-1e1e2e?style=flat&logo=latex&logoColor=008080)
 ![Vue](https://img.shields.io/badge/Vue-1e1e2e?style=flat&logo=vue.js&logoColor=4FC08D)
