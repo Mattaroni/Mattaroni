@@ -14,7 +14,7 @@ hobbies = ["gunpla building", "programming", "video games"]
 ```
 
 ### Languages & Tools
-![CSS](https://img.shields.io/badge/CSS-1e1e2e?style=flat&logo=css3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/CSS-1e1e2e?style=flat&logo=css&logoColor=663399)
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=flat&logo=git&logoColor=F05032)
 ![HTML](https://img.shields.io/badge/HTML-1e1e2e?style=flat&logo=html5&logoColor=E34F26)
 ![Java](https://img.shields.io/badge/Java-1e1e2e?style=flat&logo=openjdk)
@@ -24,7 +24,7 @@ hobbies = ["gunpla building", "programming", "video games"]
 ![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=flat&logo=mysql&logoColor=4479A1)
 ![NPM](https://img.shields.io/badge/NPM-1e1e2e?style=flat&logo=npm&logoColor=CB3837)
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=flat&logo=node.js&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat&logo=python&logoColor=3776AB)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=flat&logo=python&logoColor=3776AB)<!-- ![R](https://img.shields.io/badge/R-1e1e2e?style=flat&logo=r&logoColor=276DC3) -->
 ![Rust](https://img.shields.io/badge/Rust-1e1e2e?style=flat&logo=rust&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-1e1e2e?style=flat&logo=toml&logoColor=9C4121)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=flat&logo=typescript&logoColor=3178C6)
